@@ -1,0 +1,10 @@
+{
+    "slack": {
+	"url": "[slack incoming webook url]"
+    },
+    "files": {
+	"latest": "ip.txt",
+	"history": "history.csv"
+    }
+}
+
